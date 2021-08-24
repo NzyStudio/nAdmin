@@ -9,4 +9,5 @@ Fonctionement :
 server.cgf
 
 ensure nAdmin
+
 ensure sqlban
