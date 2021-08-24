@@ -6,7 +6,7 @@ Fonctionement :
   ALTG = TPM
   
 
-  in the server.cgf
+server.cgf
 
 ensure nAdmin
 ensure sqlban
