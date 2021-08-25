@@ -14,3 +14,5 @@ server.cgf
 ensure nAdmin
 
 ensure sqlban
+
+preview : https://www.youtube.com/watch?v=PJU-ESuYn08
